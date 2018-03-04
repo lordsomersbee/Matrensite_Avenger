@@ -11,8 +11,6 @@
 #include "Martensite.h"
 #include "option.h"
 
-//testing..
-
 using namespace sf;
 using namespace std;
 
