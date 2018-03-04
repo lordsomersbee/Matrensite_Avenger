@@ -43,7 +43,7 @@ void Austenite::actionDecision()
 				else
 				{
 					//Check if RELEASING BLOCK is required
-					if (this->isBlock)
+					if (this->isBlock)      
 					{
 						this->isBlock = false;
 						this->isReleaseBlock = true;
