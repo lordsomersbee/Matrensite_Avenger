@@ -1,5 +1,4 @@
 # Matrensite_Avenger
-Matrensite Avenger: Iron-Coal Wars
 
 
 All images are stored in 'img' folder:
